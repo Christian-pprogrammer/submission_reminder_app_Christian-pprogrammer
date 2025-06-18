@@ -6,8 +6,8 @@ This app tracks student assignment submissions and reminds those who haven't sub
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/submission_reminder_app_yourgithubusername.git  
-   cd submission_reminder_app_yourgithubusername  
+   git clone https://github.com/Christian-pprogrammer/submission_reminder_app_Christian-pprogrammer.git  
+   cd submission_reminder_app_Christian-pprogrammer  
    ```
 
 2. Run the setup:
